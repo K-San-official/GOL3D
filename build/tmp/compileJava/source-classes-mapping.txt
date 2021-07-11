@@ -1,0 +1,18 @@
+controller/Config.java
+ controller.Config
+model/Field3D.java
+ model.Field3D
+model/GameRule.java
+ model.GameRule
+model/FieldUpdater.java
+ model.FieldUpdater
+view/GridComponent3D.java
+ view.GridComponent3D
+view/Renderer.java
+ view.Renderer
+controller/Application.java
+ controller.Application
+view/GamePanel.java
+ view.GamePanel
+view/Mainframe.java
+ view.Mainframe
